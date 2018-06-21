@@ -1,2 +1,3 @@
 First Commit - Dominik Meissner
 New Line
+Second Commit - Nico Wegner
