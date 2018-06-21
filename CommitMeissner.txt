@@ -1,3 +1,7 @@
 First Commit - Dominik Meissner
 New Line
+<<<<<<< HEAD
 Second Commit - Nico Wegner
+=======
+// Commentar .txt datei
+>>>>>>> cd9da48e0359dc02b7ff9a6484efa2b60d051e93
